@@ -1,0 +1,7 @@
+INFO:root:A new request came
+ERROR:root:invalid literal for int() with base 10: 'm'
+Traceback (most recent call last):
+  File "C:\Users\Srinivas\PycharmProjects\Assignment1\main2.py", line 5, in <module>
+    x = int(input("Enter first number:"))
+ValueError: invalid literal for int() with base 10: 'm'
+INFO:root:Request Processing Completed
